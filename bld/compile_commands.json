@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/arch/dev/shithCompiler/bld",
+  "command": "/sbin/cc -O3 -DNDEBUG -o CMakeFiles/shit.dir/src/main.c.o -c /home/arch/dev/shithCompiler/src/main.c",
+  "file": "/home/arch/dev/shithCompiler/src/main.c",
+  "output": "CMakeFiles/shit.dir/src/main.c.o"
+}
+]
