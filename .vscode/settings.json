@@ -1,5 +1,7 @@
 {
     "files.associations": {
-        "streambuf": "c"
+        "streambuf": "c",
+        "system_error": "c",
+        "cstring": "c"
     }
 }

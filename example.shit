@@ -1,4 +1,4 @@
-a : integer
+a : integer = 0
 a := 0
 
 defun foo(a: integer, b: integer): integer {
